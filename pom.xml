@@ -94,11 +94,11 @@
 	
 	<distributionManagement>
 	
-	    <releaserepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Marolix Releases Nexus Repository</name>
 	      <url></http://65.2.180.225:8081/repository/sample-release/url>
-	      </release/repository>
+	      </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
